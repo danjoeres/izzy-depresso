@@ -17,7 +17,7 @@ public class GuildMessageReceive extends ListenerAdapter {
         TextChannel c = event.getChannel();
 
         switch(args[0].toLowerCase()) {
-            case("GuildMessageReceive"):
+            case("uwu"):
                 sendMessageLocal("ᵘʷᵘ **oh frick** ᵘʷᵘ ᵘʷᵘ ᵘʷᵘ ᵘʷᵘ ᵘʷᵘ ᵘʷᵘ ᵘʷᵘ ᵘʷᵘ **frick sorry guys** ᵘʷᵘ ᵘʷᵘ ᵘʷᵘ ᵘʷᵘ ᵘʷᵘ ᵘʷᵘ **sorry im dropping** ᵘʷᵘ **my uwus all over the** ᵘʷᵘ **place** ᵘʷᵘ ᵘʷᵘ ᵘʷᵘ **sorry**", c);
                 break;
             case("memrise"):
