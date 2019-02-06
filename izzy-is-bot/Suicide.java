@@ -14,5 +14,6 @@ public class Suicide {
                  .buildBlocking();
 
          jda.addEventListener(new GuildMessageReceive());
+         jda.addEventListener(new GoogleTranslate());
      }
 }
