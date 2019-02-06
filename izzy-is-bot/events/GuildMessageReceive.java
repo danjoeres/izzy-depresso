@@ -29,6 +29,9 @@ public class GuildMessageReceive extends ListenerAdapter {
             case("what"):
                 sendMessageLocal("let's unpick that...", c);
                 break;
+            case("edgy"):
+                sendMessageLocal("https://instagram.com/lmaoedge", c);
+                break;
         }
 
 
